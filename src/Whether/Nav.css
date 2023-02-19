@@ -1,0 +1,42 @@
+body{
+  background-image: url("https://w0.peakpx.com/wallpaper/475/1005/HD-wallpaper-end-of-a-summer-day-sun-sunlights-orange-background-clouds-cenario-afternoon-sundown-nice-skyscape-multicolor-scenario-evening-paisage-sunrises-paysage-cena-black-sky-trees-sunrays.jpg"); 
+   /* background-color:yellow;  */
+  background-size: cover;
+  /* background-repeat: no-repeat;
+  height: 100vh;
+  width: 100vh; */
+  
+}
+header{
+    height: 3rem;
+}
+ul {
+    list-style: none;
+    display: flex;
+ 
+}
+
+ul li{
+    font-size: large;
+    color: yellow;
+}
+
+.input{
+width: 23rem;
+height:3rem;
+border-radius: 5px;
+margin-left: 35rem;
+margin-top: 9rem;
+font-size: large;
+color:black;
+
+}
+.info{
+    border: 1px solid white;
+    width:20%;
+    
+    background-color:transparent;
+    margin-left: 36rem;
+    margin-top: 2rem;
+    box-shadow: 0 8px 24px  rgba(17,17,26,0.1), 0 16px 56px  rgba(17,17,26,0.1), 0 24px 140px 10px rgba(0, 0, 0, 0.1);
+}
